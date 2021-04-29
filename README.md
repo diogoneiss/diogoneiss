@@ -21,9 +21,9 @@
 
 ## Connect with me
 
-<a href="https://linkedin.com/in/diogo-neiss" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="diogoneiss" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/10913537" target="blank"><img align="center" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=whit" alt="10913537" height="30" width="40" /></a>
-<a href="https://instagram.com/neissdiogo" target="blank"><img align="center" src="	https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="neissdiogo" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/diogo-neiss" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="diogoneiss"  /></a>
+<a href="https://stackoverflow.com/users/10913537" target="blank"><img align="center" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=whit" alt="10913537" /></a>
+<a href="https://instagram.com/neissdiogo" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="neissdiogo" /></a>
 
 ## What I know
 
@@ -115,6 +115,7 @@
 English, German, Portuguese
 SCRUM and XP workflows
 Knowlegeble in digital transformation
+
 ---
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=diogoneiss&show_icons=true&locale=en&layout=compact" alt="diogoneiss" /></p>
