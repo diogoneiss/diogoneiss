@@ -3,15 +3,15 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=diogoneiss" alt="diogoneiss" /></a> </p>
 
-- 🔭 I’m currently working on **.NET Core and DevOps**
+- 🔭 I’m currently working on **Swift and SwiftUI**
 
-- 🌱 I’m currently learning **machine learning and data visualization**
+- 🌱 I’m currently learning **deep learning models with Transformers**
 
-- 🤝 I’m looking to help junior developers with **front end development**
+- 🤝 I’m looking to help junior developers with **fullstack development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/diogoneiss?tab=repositories](https://github.com/diogoneiss?tab=repositories)
 
-- 💬 Ask me about **react, typescript, project management and UX**
+- 💬 Ask me about **react, typescript, C#, C++, Swift, project management and UX**
 
 - 📫 How to reach me **diogo.oliveiran@gmail.com**
 
